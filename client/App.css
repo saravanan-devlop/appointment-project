@@ -1,0 +1,60 @@
+.home-main{
+  background-image: url(https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  height: 100vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.doctor-reg-main {
+  background-image: url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  height: 100vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+}
+.appoinment-main{
+  background-image: url(https://images.pexels.com/photos/2280568/pexels-photo-2280568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  height: 100vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.login-page{
+  background-image: url(https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  height: 100vh;
+  color: black;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-repeat: no-repeat;
+  background-size: cover;
+}
+.mainForm{
+  width: 500px;
+  padding: 20px;
+  border: 5px solid #fff;
+}
+.homeForm{
+  width: 500px;
+  padding: 20px;
+  border: 5px solid #fff;
+}
+.navHead{
+  text-decoration: none;
+}
+.home2main{
+  background-image: url(https://images.pexels.com/photos/4101143/pexels-photo-4101143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+.table-main{
+  /* border: 5px solid black; */
+  width: 600px;
+  padding: 20px;
+
+}
+.appMain{
+  background-image: linear-gradient(skyblue,white);
+}
